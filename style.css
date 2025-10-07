@@ -1,0 +1,40 @@
+body    {
+    background-color: #3F401E;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+.container  {
+    background-color: #f0f8ff;
+    max-width: 1000px;
+    margin: auto;
+}
+
+h1  {
+    font-size: 90px;
+    letter-spacing: 2px;
+}
+
+h1, footer {
+    background-color: #C1D4D9;
+    font-family: Times, serif;
+    color: #38687b;
+    font-variant: small-caps;
+}
+
+img {
+    width: 700px;
+    height: 400px;
+}
+
+a:link, a:visited, a:active {
+    color: #38687b;
+    font-weight: bold;
+} 
+
+a:hover {
+    color: #C1D4D9;
+}
+
+a   {
+    color: #04b3f8;
+}
